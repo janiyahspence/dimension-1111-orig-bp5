@@ -21,7 +21,9 @@ create
 display only for now
 contact for rates for now
 
+## Prompt 3
+
 can you use the attached iamge as the hero background image?
 
-## Prompt 2
+## Prompt 4
 can you create a prompt-history.md file and add all the prompts I give to you into it? if you can please also write the prompts so far into it
